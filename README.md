@@ -40,7 +40,7 @@ To create the retail sales analysis report for 2022 and 2023 so that the owner m
 -<a href="https://github.com/Nisha-ee/Data-Analysis-Dashboard/blob/main/Dashboard_Screenshot.png">Dashboard_Screenshot</a>
 
 
-##Project Insight:
+## Project Insight:
 - Women customers are more likely to buy products compared to men (~51%).
 - Sales rise at around September and maximum sales are in December.
 - The adult age group (around 40 yrs) is max contributing.
