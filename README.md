@@ -4,5 +4,5 @@ To create the retail sales analysis report for 2022 and 2023 so that the owner m
 
 
 ## Dataset used:
-- <a href="https://github.com/najirh/Retail-Sales-Analysis-SQL-Project--P1/blob/main/SQL%20-%20Retail%20Sales%20Analysis_utf%20.csv">Dataset</a>
+- <a href="https://github.com/Nisha-ee/Data-Analysis-Dashboard/blob/main/Retail%20Sales%20Analysis%20Dashboard.xlsx">Dataset</a>
 
