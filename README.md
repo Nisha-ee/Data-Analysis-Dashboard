@@ -35,3 +35,7 @@ To create the retail sales analysis report for 2022 and 2023 so that the owner m
 - Created pivot charts according to the questions asked.
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
+
+## Dashboard:
+
+
