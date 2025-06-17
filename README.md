@@ -37,5 +37,6 @@ To create the retail sales analysis report for 2022 and 2023 so that the owner m
 
 
 ## Dashboard:
+-<a href="https://github.com/Nisha-ee/Data-Analysis-Dashboard/blob/main/Dashboard_ss.png">Dashboard_Screenshot</a>
 
 
