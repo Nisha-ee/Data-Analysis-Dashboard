@@ -26,3 +26,12 @@ To create the retail sales analysis report for 2022 and 2023 so that the owner m
 
 - Dashboard Interaction: - <a href="https://github.com/Nisha-ee/Data-Analysis-Dashboard/blob/main/Retail%20Sales%20Analysis%20Dashboard.xlsx">View Dashboard</a>
 
+
+
+## Process:
+- Verify data for any missing values and anomalies, and sort out the same.
+- Made sure data is consistent and clean with respect to data type, data format and values used.
+- Created pivot tables according to the questions asked.
+- Created pivot charts according to the questions asked.
+- Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+
